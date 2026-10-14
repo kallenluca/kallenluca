@@ -63,6 +63,15 @@
   <img src="https://img.shields.io/badge/Auth-JWT-8B5CF6?style=for-the-badge" />
 </p>
 
+#### <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="28" height="28" /> E-commerce & Product
+<p align="left">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shopify-Apps-7AB55C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Checkout-Optimization-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UX%2FUI-Design-FFB703?style=for-the-badge" />
+</p>
+
 #### <img src="https://cdn.simpleicons.org/postgresql/316192" alt="PostgreSQL" width="28" height="28" /> Databases & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
