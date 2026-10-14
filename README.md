@@ -33,7 +33,7 @@
 
 ### 🧠 Skills & Expertise
 
-#### <img src="https://img.icons8.com/fluency/28/000000/artificial-intelligence.png" alt="AI" width="28" height="28" /> Data, AI & Automation
+#### <img src="https://cdn.simpleicons.org/openai/412991" alt="AI" width="28" height="28" /> Data, AI & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt-Engineering-8B5CF6?style=for-the-badge" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Auth-JWT-8B5CF6?style=for-the-badge" />
 </p>
 
-#### <img src="https://img.icons8.com/fluency/28/000000/toolbox.png" alt="Tools" width="28" height="28" /> Databases & Tools
+#### <img src="https://cdn.simpleicons.org/postgresql/316192" alt="PostgreSQL" width="28" height="28" /> Databases & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="28" height="28" /> Game & Interactive Tech
+#### <img src="https://cdn.simpleicons.org/godot/478CBF" alt="Godot" width="28" height="28" /> Game & Interactive Tech
 <p align="left">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-ff5f5f?style=for-the-badge" />
