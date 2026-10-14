@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecommerce+Builder;Game+Engine+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecommerce+Builder" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Hi, I'm kallenluca 👋</h1>
@@ -31,17 +31,63 @@
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Skills & Expertise
 
+#### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+#### Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-API-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth-JWT-8B5CF6?style=for-the-badge" />
+</p>
+
+#### Data, AI & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt-Engineering-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Workflows-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Agents-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-Integration-7C3AED?style=for-the-badge" />
+</p>
+
+#### E-commerce & Product
+<p align="left">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shopify-Apps-7AB55C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Checkout-Optimization-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UX%2FUI-Design-FFB703?style=for-the-badge" />
+</p>
+
+#### Databases & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+#### Game & Interactive Tech
+<p align="left">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-ff5f5f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Game-Systems-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interactive-UX-8B5CF6?style=for-the-badge" />
 </p>
 
 ---
