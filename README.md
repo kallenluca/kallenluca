@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecommerce+Builder;Game+Engine+Explorer" />
 </div>
 
-<h1 align="center">Hi, I'm kallenluca919-coder 👋</h1>
+<h1 align="center">Hi, I'm kallenluca 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Integration-8B5CF6?style=for-the-badge" />
