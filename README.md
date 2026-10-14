@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-#### <img src="https://cdn.simpleicons.org/godot/478CBF" alt="Godot" width="28" height="28" /> Game & Interactive Tech
+#### <img src="https://cdn.simpleicons.org/gamepad/FF6B6B" alt="Gamepad" width="28" height="28" /> Game & Interactive Tech
 <p align="left">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-ff5f5f?style=for-the-badge" />
