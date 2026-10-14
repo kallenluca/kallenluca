@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;AI+Integration+Specialist;Shopify+Ecommerce+Builder;Game+Engine+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecommerce+Builder;Game+Engine+Explorer" />
 </div>
 
 <h1 align="center">Hi, I'm kallenluca919-coder 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Fullstack%20Engineer-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years%20AI%20Integration-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialty-Shopify%20Ecommerce-2ECC71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interest-Game%20Engines-EF4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Integration-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shopify-Ecommerce-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Game-Engines-EF4444?style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kallenluca.kallenluca" alt="visitor-badge" />
 </p>
 
 <p align="center">
-  I'm a Full-stack engineer with 4+ years of experience building digital products, integrating AI-powered features, and developing Shopify eCommerce solutions.
+  I build reliable digital products, integrate AI-driven capabilities, and create Shopify commerce experiences with a strong interest in game engine technologies.
 </p>
 
 <p align="center">
-  I enjoy creating scalable web systems, improving user experiences, and experimenting with game engine technologies and interactive experiences.
+  My focus is on creating scalable web systems, smooth user experiences, and innovative products that blend software engineering with modern digital experiences.
 </p>
 
 ---
@@ -72,4 +72,4 @@
   </a>
 </p>
 
-> Always learning, building, and shipping products that blend code, commerce, and emerging technology.
+> Always learning, building, and shipping products that blend engineering, commerce, and modern technology.
