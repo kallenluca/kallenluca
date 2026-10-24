@@ -33,7 +33,7 @@
 
 ### 🧠 Skills & Expertise
 
-#### <img src="https://cdn.simpleicons.org/openai/412991" alt="AI" width="28" height="28" /> Data, AI & Automation
+<img src="https://img.shields.io/badge/Data%2C%20AI%20%26%20Automation-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Data, AI & Automation" />
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt-Engineering-8B5CF6?style=for-the-badge" />
@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-#### <img src="https://cdn.simpleicons.org/gamepad/FF6B6B" alt="Gamepad" width="28" height="28" /> Game & Interactive Tech
+<img src="https://img.shields.io/badge/Game%20%26%20Interactive%20Tech-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Game & Interactive Tech" />
 <p align="left">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-ff5f5f?style=for-the-badge" />
