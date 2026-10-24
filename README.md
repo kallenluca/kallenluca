@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-#### <img src="https://cdn.simpleicons.org/fastapi/009688" alt="Backend & APIs" width="28" height="28" /> <img src="https://img.shields.io/badge/Backend%20%26%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend & APIs" />
+#### <img src="https://img.shields.io/badge/Backend%20%26%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend & APIs" />
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Auth-JWT-8B5CF6?style=for-the-badge" />
 </p>
 
-#### <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="E-commerce & Product" width="28" height="28" /> <img src="https://img.shields.io/badge/E-commerce%20%26%20Product-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="E-commerce & Product" />
+#### <img src="https://img.shields.io/badge/E-commerce%20%26%20Product-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="E-commerce & Product" />
 <p align="left">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge" />
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/UX%2FUI-Design-FFB703?style=for-the-badge" />
 </p>
 
-#### <img src="https://cdn.simpleicons.org/postgresql/316192" alt="Databases & Tools" width="28" height="28" /> <img src="https://img.shields.io/badge/Databases%20%26%20Tools-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases & Tools" />
+#### <img src="https://img.shields.io/badge/Databases%20%26%20Tools-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases & Tools" />
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
