@@ -98,7 +98,7 @@
   <a href="https://github-stats-extended.vercel.app/api?username=kallenluca">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api?username=kallenluca&theme=dark_github"
+        srcset="https://github-stats-extended.vercel.app/api?username=kallenluca&theme=dark_github&hide=contribs,prs"
         media="(prefers-color-scheme: dark)"
       />
       <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=kallenluca&theme=rose" />
