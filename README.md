@@ -95,10 +95,10 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github-stats-extended.vercel.app/api?username=kallenluca">
+  <a href="https://github-stats-extended.vercel.app/api?username=kallenluca&hide=contribs,prs">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api?username=kallenluca&theme=dark_github&hide=contribs,prs"
+        srcset="https://github-stats-extended.vercel.app/api?username=kallenluca&theme=dark_github"
         media="(prefers-color-scheme: dark)"
       />
       <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=kallenluca&theme=rose" />
