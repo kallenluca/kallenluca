@@ -33,7 +33,7 @@
 
 ### 🧠 Skills & Expertise
 
-#### <img src="https://cdn.iconscout.com/icon/free/png-256/free-artificial-intelligence-network-icon-15064332?f=webp" alt="Data, AI & Automation" width="28" height="28" /> <img src="https://img.shields.io/badge/Data%2C%20AI%20%26%20Automation-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Data, AI & Automation" />
+#### <img src="https://img.shields.io/badge/Data%2C%20AI%20%26%20Automation-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Data, AI & Automation" />
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt-Engineering-8B5CF6?style=for-the-badge" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/LLM-Integration-7C3AED?style=for-the-badge" />
 </p>
 
-#### <img src="https://cdn.simpleicons.org/react/61DAFB" alt="Frontend" width="28" height="28" /> <img src="https://img.shields.io/badge/Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend" />
+#### <img src="https://img.shields.io/badge/Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend" />
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-#### <img src="https://cdn.simpleicons.org/gamepad/FF6B6B" alt="Game & Interactive Tech" width="28" height="28" /> <img src="https://img.shields.io/badge/Game%20%26%20Interactive%20Tech-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Game & Interactive Tech" />
+#### <img src="https://img.shields.io/badge/Game%20%26%20Interactive%20Tech-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Game & Interactive Tech" />
 <p align="left">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-ff5f5f?style=for-the-badge" />
