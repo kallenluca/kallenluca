@@ -1,7 +1,9 @@
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecom[..[...]
 </div>
+---
 
+### 🚀 Core Focus
 ### Hi, I'm kallenluca 👋
 
 <p align="left">
