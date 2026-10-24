@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-#### <img src="https://cdn.simpleicons.org/fastapi/009688" alt="Node.js" width="28" height="28" /> Backend & APIs
+#### <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" width="28" height="28" /> Backend & APIs
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
