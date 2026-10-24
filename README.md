@@ -32,7 +32,6 @@
 ---
 
 ### 🧠 Skills & Expertise
-<img width="480" height="480" alt="ArtificialIntelligenceAiGIFbyAbdiSlick" src="https://github.com/user-attachments/assets/1efd9f8b-9226-44c2-ad39-706e5acfe1a5" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
