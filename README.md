@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecommerce+Builder;Product+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecommerce+Builder;Product+Builder" />
 </div>
 
 <h1 align="left">Hi, I'm kallenluca 👋</h1>
@@ -33,6 +33,7 @@
 
 ### 🧠 Skills & Expertise
 
+#### <img src="https://cdn.iconscout.com/icon/free/png-256/free-artificial-intelligence-network-icon-15064332?f=webp" alt="Data, AI & Automation" width="28" height="28" /> <img src="https://img.shields.io/badge/Data%2C%20AI%20%26%20Automation-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Data, AI & Automation" />
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt-Engineering-8B5CF6?style=for-the-badge" />
@@ -41,6 +42,7 @@
   <img src="https://img.shields.io/badge/LLM-Integration-7C3AED?style=for-the-badge" />
 </p>
 
+#### <img src="https://cdn.simpleicons.org/react/61DAFB" alt="Frontend" width="28" height="28" /> <img src="https://img.shields.io/badge/Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend" />
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -51,6 +53,7 @@
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
+#### <img src="https://cdn.simpleicons.org/fastapi/009688" alt="Backend & APIs" width="28" height="28" /> <img src="https://img.shields.io/badge/Backend%20%26%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend & APIs" />
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -60,6 +63,7 @@
   <img src="https://img.shields.io/badge/Auth-JWT-8B5CF6?style=for-the-badge" />
 </p>
 
+#### <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="E-commerce & Product" width="28" height="28" /> <img src="https://img.shields.io/badge/E-commerce%20%26%20Product-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="E-commerce & Product" />
 <p align="left">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge" />
@@ -68,6 +72,7 @@
   <img src="https://img.shields.io/badge/UX%2FUI-Design-FFB703?style=for-the-badge" />
 </p>
 
+#### <img src="https://cdn.simpleicons.org/postgresql/316192" alt="Databases & Tools" width="28" height="28" /> <img src="https://img.shields.io/badge/Databases%20%26%20Tools-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases & Tools" />
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -77,6 +82,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+#### <img src="https://cdn.simpleicons.org/gamepad/FF6B6B" alt="Game & Interactive Tech" width="28" height="28" /> <img src="https://img.shields.io/badge/Game%20%26%20Interactive%20Tech-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Game & Interactive Tech" />
 <p align="left">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-ff5f5f?style=for-the-badge" />
@@ -110,7 +116,7 @@
   <a href="https://github.com/kallenluca">
     <img src="https://img.shields.io/badge/GitHub-kallenluca-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.githubstarmate.com/api/referrals/invite/5a8259a194f748a8bf321dca47e3b93">
+  <a href="https://www.githubstarmate.com/api/referrals/invite/5a8259a194f7488a8bf321dca47e3b93">
     <img src="https://img.shields.io/badge/GitHubStarMate-Referral-8B5CF6?style=for-the-badge&logo=github" />
   </a>
 </p>
