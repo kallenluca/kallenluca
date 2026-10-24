@@ -101,7 +101,7 @@
         srcset="https://github-stats-extended.vercel.app/api?username=kallenluca&theme=dark_github"
         media="(prefers-color-scheme: dark)"
       />
-      <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=kallenluca&theme=light_github" />
+      <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=kallenluca&theme=rose" />
     </picture>
   </a>
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=kallenluca&layout=compact&langs_count=8&card_width=320">
@@ -110,7 +110,7 @@
         srcset="https://github-stats-extended.vercel.app/api/top-langs?username=kallenluca&layout=compact&langs_count=8&card_width=320&theme=dark_github"
         media="(prefers-color-scheme: dark)"
       />
-      <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=kallenluca&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+      <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=kallenluca&layout=compact&langs_count=8&card_width=320&theme=rose" />
     </picture>
   </a>
 </p>
