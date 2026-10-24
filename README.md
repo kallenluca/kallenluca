@@ -95,7 +95,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github-stats-extended.vercel.app/api?username=kallenluca&hide=contribs,prs">
+  <a href="https://github-stats-extended.vercel.app/api?username=kallenluca&hide=contribs,prs&card_width=320">
     <picture>
       <source
         srcset="https://github-stats-extended.vercel.app/api?username=kallenluca&hide=contribs,prs&theme=dark_github"
