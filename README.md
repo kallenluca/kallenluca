@@ -95,9 +95,24 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kallenluca&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallenluca&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1000" alt="Top languages" />
-  
+  <a href="https://github-stats-extended.vercel.app/api?username=kallenluca">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api?username=kallenluca&theme=dark_github"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=kallenluca&theme=light_github" />
+    </picture>
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=kallenluca&layout=compact&langs_count=8&card_width=320">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=kallenluca&layout=compact&langs_count=8&card_width=320&theme=dark_github"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=kallenluca&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+    </picture>
+  </a>
 </p>
 
 ---
