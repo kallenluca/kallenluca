@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecom[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecommerce+Builder;Product+Focused+Engineer" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi, I'm kallenluca 👋</h1>
+<h1 align="left">Hi, I'm kallenluca 👋</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/AI-Integration-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shopify-Ecommerce-2ECC71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Game-Engines-EF4444?style=for-the-badge" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kallenluca.kallenluca" alt="visitor-badge" />
 </p>
 
-<p align="center">
+<p align="left">
   I build reliable digital products, integrate AI-driven capabilities, and create Shopify commerce experiences with a strong interest in game engine technologies.
 </p>
 
-<p align="center">
+<p align="left">
   My focus is on creating scalable web systems, smooth user experiences, and innovative products that blend software engineering with modern digital experiences.
 </p>
 
@@ -94,7 +94,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kallenluca&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallenluca&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
