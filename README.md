@@ -96,7 +96,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kallenluca&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallenluca&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallenluca&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1000" alt="Top languages" />
 </p>
 
 ---
