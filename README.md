@@ -33,7 +33,7 @@
 
 ### 🧠 Skills & Expertise
 
-#### <img src="https://cdn.simpleicons.org/openai/8B5CF6" alt="Data, AI & Automation" width="28" height="28" /> <img src="https://img.shields.io/badge/Data%2C%20AI%20%26%20Automation-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Data, AI & Automation" />
+#### <img src="https://cdn.iconscout.com/icon/free/png-256/free-artificial-intelligence-network-icon-15064332?f=webp" alt="Data, AI & Automation" width="28" height="28" /> <img src="https://img.shields.io/badge/Data%2C%20AI%20%26%20Automation-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Data, AI & Automation" />
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt-Engineering-8B5CF6?style=for-the-badge" />
