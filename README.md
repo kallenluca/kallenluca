@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecommerce+Expert;Product+Builder;Game+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecom[...]
 </div>
 
 <h1 align="left">Hi, I'm kallenluca 👋</h1>
@@ -34,7 +34,6 @@
 ### 🧠 Skills & Expertise
 <img width="480" height="480" alt="ArtificialIntelligenceAiGIFbyAbdiSlick" src="https://github.com/user-attachments/assets/1efd9f8b-9226-44c2-ad39-706e5acfe1a5" />
 
-#### <img src="https://img.shields.io/badge/Data%2C%20AI%20%26%20Automation-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Data, AI & Automation" />
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt-Engineering-8B5CF6?style=for-the-badge" />
@@ -43,7 +42,6 @@
   <img src="https://img.shields.io/badge/LLM-Integration-7C3AED?style=for-the-badge" />
 </p>
 
-#### <img src="https://img.shields.io/badge/Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend" />
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -54,7 +52,6 @@
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-#### <img src="https://img.shields.io/badge/Backend%20%26%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend & APIs" />
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,7 +61,6 @@
   <img src="https://img.shields.io/badge/Auth-JWT-8B5CF6?style=for-the-badge" />
 </p>
 
-#### <img src="https://img.shields.io/badge/E-commerce%20%26%20Product-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="E-commerce & Product" />
 <p align="left">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge" />
@@ -73,7 +69,6 @@
   <img src="https://img.shields.io/badge/UX%2FUI-Design-FFB703?style=for-the-badge" />
 </p>
 
-#### <img src="https://img.shields.io/badge/Databases%20%26%20Tools-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases & Tools" />
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -83,7 +78,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-#### <img src="https://img.shields.io/badge/Game%20%26%20Interactive%20Tech-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Game & Interactive Tech" />
 <p align="left">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-ff5f5f?style=for-the-badge" />
