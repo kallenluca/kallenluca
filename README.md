@@ -32,6 +32,7 @@
 ---
 
 ### 🧠 Skills & Expertise
+<img width="480" height="480" alt="ArtificialIntelligenceAiGIFbyAbdiSlick" src="https://github.com/user-attachments/assets/1efd9f8b-9226-44c2-ad39-706e5acfe1a5" />
 
 #### <img src="https://img.shields.io/badge/Data%2C%20AI%20%26%20Automation-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Data, AI & Automation" />
 <p align="left">
