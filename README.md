@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecommerce+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Integration+Specialist;Shopify+Ecom[...]
 </div>
 
 <h1 align="center">Hi, I'm kallenluca 👋</h1>
@@ -115,6 +115,9 @@
 <p align="left">
   <a href="https://github.com/kallenluca">
     <img src="https://img.shields.io/badge/GitHub-kallenluca-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.githubstarmate.com/api/referrals/invite/5a8259a194f7488a8bf321dca47e3b93">
+    <img src="https://img.shields.io/badge/GitHubStarMate-Referral-8B5CF6?style=for-the-badge&logo=github" />
   </a>
 </p>
 
